@@ -1,3 +1,5 @@
+
+// components/homepage/hero-section/index.jsx
 'use client';
 import { personalData } from "@/utils/data/personal-data";
 import Image from "next/image";

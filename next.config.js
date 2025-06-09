@@ -1,10 +1,11 @@
-const path = require('path')
- 
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export', // for static export
   sassOptions: {
-    includePaths: [path.join(__dirname, 'styles')],
+    includePaths: [require('path').join(__dirname, 'styles')],
   },
   images: {
+    unoptimized: true, // required for static export
     remotePatterns: [
       {
         protocol: 'https',
@@ -23,4 +24,9 @@ module.exports = {
       },
     ],
   },
+  // You can add other configurations here
+  trailingSlash: true, // optional, if you want trailing slashes
+  distDir: 'out', // optional, change the output directory
 }
+
+module.exports = nextConfig
