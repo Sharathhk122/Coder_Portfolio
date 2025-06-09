@@ -1,5 +1,3 @@
-
-// components/homepage/hero-section/index.jsx
 'use client';
 import { personalData } from "@/utils/data/personal-data";
 import Image from "next/image";
@@ -46,13 +44,13 @@ function HeroSection() {
             {isMounted ? (
               <TypeAnimation
                 sequence={[
-                  "Hello, I'm SHARATH H K, a seasoned professional in software development...",
+                  "Hello, I&apos;m SHARATH H K, a seasoned professional in software development...",
                   1000,
-                  "Warm greetings! I'm SHARATH H K, a proud software developer...",
+                  "Warm greetings! I&apos;m SHARATH H K, a proud software developer...",
                   1000,
-                  "Hey there! I'm SHARATH H K a creative and enthusiastic...",
+                  "Hey there! I&apos;m SHARATH H K a creative and enthusiastic...",
                   1000,
-                  "Hi, I'm SHARATH H K a devoted and dynamic software developer...",
+                  "Hi, I&apos;m SHARATH H K a devoted and dynamic software developer...",
                   1000,
                 ]}
                 wrapper="span"
