@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // for static export
+ 
   sassOptions: {
     includePaths: [require('path').join(__dirname, 'styles')],
   },
