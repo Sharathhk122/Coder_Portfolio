@@ -1,6 +1,6 @@
 {
   "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "description": "Portfolio of sharath",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -25,7 +25,6 @@
     "sharp": "^0.33.5"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.8",
     "@typescript-eslint/eslint-plugin": "^8.34.0",
     "@typescript-eslint/parser": "^8.34.0",
     "autoprefixer": "latest",

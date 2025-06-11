@@ -9,8 +9,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       container: {
         center: true,
@@ -20,16 +19,13 @@ module.exports = {
           lg: "3rem",
           xl: "4rem",
           "2xl": "4rem",
-          "3xl": "5rem",
-        },
+          "3xl": "5rem"
+        }
       },
-
-      extend: {
-        screens: {
-          "4k": "1980px",
-        },
-      },
-    },
+      screens: {
+        "4k": "1980px"
+      }
+    }
   },
-  plugins: [],
+  plugins: []
 }
