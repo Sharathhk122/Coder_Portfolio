@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://www.hackerrank.com/profile/sharathhk40',
   leetcode: "https://www.hackerrank.com/profile/sharathhk40",
   devUsername: "said7388",
-  resume: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:e3f66944-4b60-4902-8fb6-08defcd41ef5?comment_id=358bdb64-04f2-42bd-aba2-9fc4b07cf2e8"
+  resume: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:1de595b9-9480-4447-9b36-4e201b50ca47"
 }
