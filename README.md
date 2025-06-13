@@ -10,10 +10,18 @@
 #### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
+## 🖼️ Screenshots
 
-# Demo :movie_camera:
+| Section | Screenshot |
+|---------|-------------|
+| Hero Section | ![HeroSection](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1043).png) |
+| About Section | ![AboutSection](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1044).png) |
+| Experience | ![Experience](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1045).png) |
+| Skills | ![Skills](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1046).png) |
+| Projects | ![Projects](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1042).png) |
+| Education | ![Education](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1047).png) |
+| Contact Section | ![ContactSection](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1048).png) |
 
-![](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1036).png)
 
 
 
