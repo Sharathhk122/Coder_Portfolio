@@ -1,7 +1,7 @@
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/Sharathhk122/Portfolio-Website)
+# [Built Portfolio With GitHub ](https://github.com/Sharathhk122/Coder_Portfolio)
 
 ---
 
@@ -13,7 +13,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](https://github.com/Sharathhk122/Coder_Portfolio/blob/main/Screenshot%20(1036).png)
 
 
 
