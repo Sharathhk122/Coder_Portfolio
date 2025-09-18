@@ -17,7 +17,10 @@ export const skillsData = [
   'C#',
   "azure",
   "opencv",
-  "flutter"
+  "Spring Boot",
+"Spring Security",
+"JPA",
+"Hibernate"
 
   
 ]
