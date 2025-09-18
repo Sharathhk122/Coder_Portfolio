@@ -146,9 +146,16 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">Spring Boot</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Hibernate</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Spring Security</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JPA</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
-                
                 <span className="text-amber-300">Express</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node.js</span>
